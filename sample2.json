@@ -1,0 +1,48 @@
+[
+  { "firstName": "Joe",
+   "lastName": "Jackson",
+   "gender": "male",
+   "age": 28,
+   "streetAddress": "101",
+   "city": "San Diego",
+   "state": "CA",
+   "number": "7349282382" 
+  },
+  
+  { "firstName": "Paul",
+    "lastName": "Smith",
+    "gender": "male",
+    "age": 23,
+    "streetAddress": "101",
+    "city": "San Diego",
+    "state": "CA",
+     "number": "928738293" 
+   },
+   { "firstName": "Hayley",
+    "lastName": "Ben",
+    "gender": "female",
+    "age": 20,
+    "streetAddress": "776",
+    "city": "Arlington",
+    "state": "TX",
+     "number": "35462829" 
+   },
+   { "firstName": "Erica",
+    "lastName": "Black",
+    "gender": "female",
+    "age": 33,
+    "streetAddress": "003",
+    "city": "Irving",
+    "state": "NY",
+     "number": "22332134" 
+   },
+   { "firstName": "Lin",
+    "lastName": "Obi",
+    "gender": "male",
+    "age": 35,
+    "streetAddress": "123",
+    "city": "Austell",
+    "state": "GA",
+     "number": "35473728" 
+   }
+]
